@@ -1,12 +1,12 @@
 {
-  "latestVersion": "5.0.0",
+  "latestVersion": "5.0.1",
   "minSupportedVersion": "3.0.0",
   "isMandatory": false,
-  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.0.0/TStorageSetup.exe",
+  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.0.1/TStorageSetup.exe",
   "publishedAt": "2026-06-29",
   "releaseNotes": {
-    "tr": "Sürüm tutarlılığı düzeltildi, güncelleme sunucusu adresi onarıldı, oturum/token güvenlik kontrolü iyileştirildi.",
-    "en": "Fixed version consistency, repaired update server URL, improved session/token security checks.",
-    "ar": "تم إصلاح اتساق الإصدار وعنوان خادم التحديث وتحسين فحص أمان الجلسة."
+    "tr": "Canlı lisans kontrolü: license.lic silinince/bozulunca uygulama anında lisans ekranına döner. Sürüm ve güncelleme sunucusu düzeltmeleri.",
+    "en": "Live license check: app returns to the license screen instantly if license.lic is deleted/corrupted. Version and update server fixes.",
+    "ar": "فحص ترخيص مباشر: يعود التطبيق فوراً إلى شاشة الترخيص عند حذف/تلف license.lic."
   }
 }
