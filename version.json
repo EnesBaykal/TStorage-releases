@@ -1,0 +1,12 @@
+{
+  "latestVersion": "5.0.0",
+  "minSupportedVersion": "3.0.0",
+  "isMandatory": false,
+  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.0.0/TStorageSetup.exe",
+  "publishedAt": "2026-06-29",
+  "releaseNotes": {
+    "tr": "Sürüm tutarlılığı düzeltildi, güncelleme sunucusu adresi onarıldı, oturum/token güvenlik kontrolü iyileştirildi.",
+    "en": "Fixed version consistency, repaired update server URL, improved session/token security checks.",
+    "ar": "تم إصلاح اتساق الإصدار وعنوان خادم التحديث وتحسين فحص أمان الجلسة."
+  }
+}
