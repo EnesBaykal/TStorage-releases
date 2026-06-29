@@ -1,12 +1,12 @@
 {
-  "latestVersion": "5.0.1",
+  "latestVersion": "5.0.2",
   "minSupportedVersion": "3.0.0",
   "isMandatory": false,
-  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.0.1/TStorageSetup.exe",
+  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.0.2/TStorageSetup.exe",
   "publishedAt": "2026-06-29",
   "releaseNotes": {
-    "tr": "Canlı lisans kontrolü: license.lic silinince/bozulunca uygulama anında lisans ekranına döner. Sürüm ve güncelleme sunucusu düzeltmeleri.",
-    "en": "Live license check: app returns to the license screen instantly if license.lic is deleted/corrupted. Version and update server fixes.",
-    "ar": "فحص ترخيص مباشر: يعود التطبيق فوراً إلى شاشة الترخيص عند حذف/تلف license.lic."
+    "tr": "Uzaktan lisans iptali: admin panelinden iptal edilen lisans cihazda otomatik kilitlenir (offline kalıcı). Sürüm tutarlılığı düzeltildi.",
+    "en": "Remote license revocation: a license revoked from the admin panel locks the device automatically (offline-persistent). Version consistency fixed.",
+    "ar": "إلغاء الترخيص عن بُعد: يتم قفل الجهاز تلقائياً عند إلغاء الترخيص من لوحة الإدارة (يبقى دون اتصال)."
   }
 }
