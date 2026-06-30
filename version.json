@@ -1,12 +1,12 @@
 {
-  "latestVersion": "5.1.5",
+  "latestVersion": "5.1.6",
   "minSupportedVersion": "3.0.0",
   "isMandatory": true,
-  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.1.5/TStorageSetup.exe",
+  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.1.6/TStorageSetup.exe",
   "publishedAt": "2026-06-30",
   "releaseNotes": {
-    "tr": "Cloudflare tabanlı tam otomatik Aktivasyon Kodu sistemi eklendi. Çeşitli arayüz sorunları giderildi.",
-    "en": "Fully automated Cloudflare-based Activation Code system added. Various UI bugs fixed.",
-    "ar": "تمت إضافة نظام رمز التفعيل الآلي بالكامل استناداً إلى كلاودفلير. تم إصلاح أخطاء واجهة المستخدم."
+    "tr": "Hızlı satış eklendi, PIN ile giriş sağlandı, DPI ölçekleme hataları düzeltildi ve arayüz optimizasyonları yapıldı.",
+    "en": "Added Quick Sale feature, PIN login functionality, DPI scaling fixes, and UI optimizations.",
+    "ar": "تمت إضافة ميزة البيع السريع، الدخول برمز PIN، إصلاحات في توافق الشاشات وتحسينات في واجهة المستخدم."
   }
 }
