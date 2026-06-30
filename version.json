@@ -1,8 +1,8 @@
 {
-  "latestVersion": "5.1.2",
+  "latestVersion": "5.1.3",
   "minSupportedVersion": "3.0.0",
   "isMandatory": true,
-  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.1.2/TStorageSetup.exe",
+  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.1.3/TStorageSetup.exe",
   "publishedAt": "2026-06-30",
   "releaseNotes": {
     "tr": "Cloudflare tabanlı tam otomatik Aktivasyon Kodu sistemi eklendi. Çeşitli arayüz sorunları giderildi.",
