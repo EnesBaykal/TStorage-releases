@@ -1,12 +1,12 @@
 {
-  "latestVersion": "5.0.2",
+  "latestVersion": "5.1.0",
   "minSupportedVersion": "3.0.0",
-  "isMandatory": false,
-  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.0.2/TStorageSetup.exe",
-  "publishedAt": "2026-06-29",
+  "isMandatory": true,
+  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.1.0/TStorageSetup.exe",
+  "publishedAt": "2026-06-30",
   "releaseNotes": {
-    "tr": "Uzaktan lisans iptali: admin panelinden iptal edilen lisans cihazda otomatik kilitlenir (offline kalıcı). Sürüm tutarlılığı düzeltildi.",
-    "en": "Remote license revocation: a license revoked from the admin panel locks the device automatically (offline-persistent). Version consistency fixed.",
-    "ar": "إلغاء الترخيص عن بُعد: يتم قفل الجهاز تلقائياً عند إلغاء الترخيص من لوحة الإدارة (يبقى دون اتصال)."
+    "tr": "Cloudflare tabanlı tam otomatik Aktivasyon Kodu sistemi eklendi. Çeşitli arayüz sorunları giderildi.",
+    "en": "Fully automated Cloudflare-based Activation Code system added. Various UI bugs fixed.",
+    "ar": "تمت إضافة نظام رمز التفعيل الآلي بالكامل استناداً إلى كلاودفلير. تم إصلاح أخطاء واجهة المستخدم."
   }
 }
