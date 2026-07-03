@@ -1,12 +1,12 @@
 {
-  "latestVersion": "5.1.6",
+  "latestVersion": "5.2.0",
   "minSupportedVersion": "3.0.0",
-  "isMandatory": true,
-  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.1.6/TStorageSetup.exe",
-  "publishedAt": "2026-06-30",
+  "isMandatory": false,
+  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.2.0/TStorageSetup.exe",
+  "publishedAt": "2026-07-03",
   "releaseNotes": {
-    "tr": "Hızlı satış eklendi, PIN ile giriş sağlandı, DPI ölçekleme hataları düzeltildi ve arayüz optimizasyonları yapıldı.",
-    "en": "Added Quick Sale feature, PIN login functionality, DPI scaling fixes, and UI optimizations.",
-    "ar": "تمت إضافة ميزة البيع السريع، الدخول برمز PIN، إصلاحات في توافق الشاشات وتحسينات في واجهة المستخدم."
+    "tr": "Genel Bakış yeniden düzenlendi (kısayol ızgarası + ayrı Gösterge Paneli). Alış ve Stok Girişi tek sayfada birleşti. Fişler'e Alışlar sekmesi ve tedarikçi filtresi eklendi. Fiş Tasarım editörü büyük ölçüde güçlendirildi: renkler, şekil/kutu öğesi, canlı önizleme ile düzenleme, dükkan bilgisi alanları ve varsayılan şablonun gerçek baskıya bağlanması. Satış ekranından para birimi seçici kaldırıldı (artık Ayarlar'dan). Çeşitli arayüz düzeltmeleri.",
+    "en": "Overview redesigned (shortcut grid + separate Dashboard page). Purchases and Stock-In merged into one page. Sales/Purchases tabs and supplier filter added to Receipts. Receipt Designer greatly enhanced: colors, shape/box element, live edit-in-preview, shop info fields, and default template now used for real printing. Currency selector removed from the sales screen (now in Settings). Various UI fixes.",
+    "ar": "إعادة تصميم النظرة العامة (شبكة اختصارات + صفحة لوحة قيادة منفصلة). دمج المشتريات وإدخال المخزون في صفحة واحدة. إضافة تبويب المبيعات/المشتريات وتصفية المورّد إلى الإيصالات. تحسينات كبيرة على مصمم الإيصالات: الألوان وعنصر الشكل/الصندوق والمعاينة الحية وحقول معلومات المحل واستخدام القالب الافتراضي في الطباعة الفعلية. إزالة محدد العملة من شاشة البيع (أصبح في الإعدادات). إصلاحات متنوعة لواجهة المستخدم."
   }
 }
