@@ -1,12 +1,12 @@
 {
-  "latestVersion": "5.3.1",
+  "latestVersion": "5.3.2",
   "minSupportedVersion": "3.0.0",
-  "isMandatory": false,
-  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.3.1/TStorageSetup.exe",
+  "isMandatory": true,
+  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.3.2/TStorageSetup.exe",
   "publishedAt": "2026-07-12",
   "releaseNotes": {
-    "tr": "Çoklu Cihaz düzeltmesi: terminal ana cihazı bulup 'Ana cihaza bağlanılıyor' ekranında takılıyordu; ağ bağlantısı artık düzgün kuruluyor ve cihazlar tek ortak veriyle çalışıyor. (Çoklu Cihaz senkronu Ayarlar → Çoklu Cihaz'dan açılır; internet gerekmez.)",
-    "en": "Multi-Device fix: the terminal found the main device but got stuck on 'Connecting to main device'; the network connection now establishes correctly and devices share one dataset. (Enable Multi-Device sync in Settings → Multi-Device; no internet needed.)",
-    "ar": "إصلاح الأجهزة المتعددة: كانت الطرفية تعثر على الجهاز الرئيسي لكنها تتوقف عند 'جارٍ الاتصال بالجهاز الرئيسي'؛ يتم الآن إنشاء اتصال الشبكة بشكل صحيح وتشترك الأجهزة في بيانات واحدة. (فعّل المزامنة من الإعدادات ← أجهزة متعددة؛ دون الحاجة للإنترنت.)"
+    "tr": "Kullanıcı yetkileri artık sol menüde de geçerli: bir kullanıcının izni olmayan bölüm (ör. Fişler, Raporlar, Ayarlar) menüde gözükmez ve açılamaz. Kasiyer kullanıcısına yalnızca Satış izni vererek sadece satış ekranına girmesini sağlayabilirsiniz (Kullanıcılar bölümünden atanır). Çoklu cihazda her cihaz artık kendi kullanıcısıyla ayrı giriş yapar (oturum paylaşılmaz). Lisans ekranına 'Güncellemeleri Kontrol Et' butonu eklendi; lisans girilmemiş cihaz da buradan güncellenebilir.",
+    "en": "User permissions now apply to the sidebar too: a section the user lacks permission for (e.g. Receipts, Reports, Settings) is hidden and cannot be opened. Give a cashier only the Sales permission so they can access just the sales screen (assigned in Users). In multi-device, each device now logs in with its own user (session is no longer shared). Added a 'Check for Updates' button to the license screen so an unlicensed device can update too.",
+    "ar": "أصبحت صلاحيات المستخدم تُطبَّق على القائمة الجانبية أيضًا: القسم الذي لا يملك المستخدم إذنًا له (مثل الإيصالات والتقارير والإعدادات) يُخفى ولا يمكن فتحه. امنح الصرّاف إذن المبيعات فقط ليصل إلى شاشة البيع فقط (يُعيَّن من المستخدمين). في وضع الأجهزة المتعددة، يسجّل كل جهاز الآن دخوله بمستخدمه الخاص (لم تعد الجلسة مشتركة). أُضيف زر 'التحقق من التحديثات' إلى شاشة الترخيص ليتمكن الجهاز غير المرخّص من التحديث أيضًا."
   }
 }
