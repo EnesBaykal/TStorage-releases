@@ -1,12 +1,12 @@
 {
-  "latestVersion": "5.3.0",
+  "latestVersion": "5.3.1",
   "minSupportedVersion": "3.0.0",
   "isMandatory": false,
-  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.3.0/TStorageSetup.exe",
-  "publishedAt": "2026-07-11",
+  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.3.1/TStorageSetup.exe",
+  "publishedAt": "2026-07-12",
   "releaseNotes": {
-    "tr": "Çoklu Cihaz (yerel ağ) senkronu eklendi: Ayarlar → Çoklu Cihaz'dan sunucu modunu açın; aynı wifi/modem ağındaki diğer bilgisayarlar lisans ekranından '2. cihaz olarak bağlan' ile kendini gösterir, siz ana cihazdan onaylarsınız. Onaylanan cihazlar tek ortak veriyle (aynı stok, satış, borç) çalışır — bir kasada yapılan satış diğerinde anında görünür. İstenildiği kadar cihaz bağlanabilir, internet gerekmez.",
-    "en": "Added Multi-Device (local network) sync: enable server mode in Settings → Multi-Device; other PCs on the same wifi/router show up via 'Connect as 2nd device' on the license screen and you approve them from the main device. Approved devices work on one shared dataset (same stock, sales, debts) — a sale on one register appears instantly on the other. Unlimited devices, no internet needed.",
-    "ar": "تمت إضافة مزامنة الأجهزة المتعددة (الشبكة المحلية): فعّل وضع الخادم من الإعدادات ← أجهزة متعددة؛ تظهر أجهزة الكمبيوتر الأخرى على نفس شبكة الواي فاي/الراوتر عبر 'الاتصال كجهاز ثانٍ' في شاشة الترخيص وتوافق عليها من الجهاز الرئيسي. تعمل الأجهزة المعتمدة على بيانات مشتركة واحدة (نفس المخزون والمبيعات والديون) — تظهر عملية البيع في صندوق ما فورًا في الآخر. عدد غير محدود من الأجهزة، دون الحاجة للإنترنت."
+    "tr": "Çoklu Cihaz düzeltmesi: terminal ana cihazı bulup 'Ana cihaza bağlanılıyor' ekranında takılıyordu; ağ bağlantısı artık düzgün kuruluyor ve cihazlar tek ortak veriyle çalışıyor. (Çoklu Cihaz senkronu Ayarlar → Çoklu Cihaz'dan açılır; internet gerekmez.)",
+    "en": "Multi-Device fix: the terminal found the main device but got stuck on 'Connecting to main device'; the network connection now establishes correctly and devices share one dataset. (Enable Multi-Device sync in Settings → Multi-Device; no internet needed.)",
+    "ar": "إصلاح الأجهزة المتعددة: كانت الطرفية تعثر على الجهاز الرئيسي لكنها تتوقف عند 'جارٍ الاتصال بالجهاز الرئيسي'؛ يتم الآن إنشاء اتصال الشبكة بشكل صحيح وتشترك الأجهزة في بيانات واحدة. (فعّل المزامنة من الإعدادات ← أجهزة متعددة؛ دون الحاجة للإنترنت.)"
   }
 }
