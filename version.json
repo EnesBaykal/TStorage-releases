@@ -1,12 +1,12 @@
 {
-  "latestVersion": "5.3.2",
+  "latestVersion": "5.3.3",
   "minSupportedVersion": "3.0.0",
   "isMandatory": true,
-  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.3.2/TStorageSetup.exe",
+  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.3.3/TStorageSetup.exe",
   "publishedAt": "2026-07-12",
   "releaseNotes": {
-    "tr": "Kullanıcı yetkileri artık sol menüde de geçerli: bir kullanıcının izni olmayan bölüm (ör. Fişler, Raporlar, Ayarlar) menüde gözükmez ve açılamaz. Kasiyer kullanıcısına yalnızca Satış izni vererek sadece satış ekranına girmesini sağlayabilirsiniz (Kullanıcılar bölümünden atanır). Çoklu cihazda her cihaz artık kendi kullanıcısıyla ayrı giriş yapar (oturum paylaşılmaz). Lisans ekranına 'Güncellemeleri Kontrol Et' butonu eklendi; lisans girilmemiş cihaz da buradan güncellenebilir.",
-    "en": "User permissions now apply to the sidebar too: a section the user lacks permission for (e.g. Receipts, Reports, Settings) is hidden and cannot be opened. Give a cashier only the Sales permission so they can access just the sales screen (assigned in Users). In multi-device, each device now logs in with its own user (session is no longer shared). Added a 'Check for Updates' button to the license screen so an unlicensed device can update too.",
-    "ar": "أصبحت صلاحيات المستخدم تُطبَّق على القائمة الجانبية أيضًا: القسم الذي لا يملك المستخدم إذنًا له (مثل الإيصالات والتقارير والإعدادات) يُخفى ولا يمكن فتحه. امنح الصرّاف إذن المبيعات فقط ليصل إلى شاشة البيع فقط (يُعيَّن من المستخدمين). في وضع الأجهزة المتعددة، يسجّل كل جهاز الآن دخوله بمستخدمه الخاص (لم تعد الجلسة مشتركة). أُضيف زر 'التحقق من التحديثات' إلى شاشة الترخيص ليتمكن الجهاز غير المرخّص من التحديث أيضًا."
+    "tr": "Çoklu cihaz giriş düzeltmesi: terminal (2. cihaz) açıldığında artık doğrudan ana cihazın oturumuna girmiyor; kendi giriş ekranını gösteriyor. Kasiyer o ekranda kendi kullanıcı adı ve parolasıyla giriş yapar ve yalnızca yetkisi olan bölümleri görür. (Kasiyer kullanıcısını ve iznini ana cihazda Kullanıcılar bölümünden oluşturun.)",
+    "en": "Multi-device login fix: when the terminal (2nd device) opens, it no longer drops straight into the main device's session; it shows its own login screen. The cashier logs in there with their own username and password and only sees the sections they are permitted. (Create the cashier user and permissions on the main device under Users.)",
+    "ar": "إصلاح تسجيل الدخول متعدد الأجهزة: عند فتح الطرفية (الجهاز الثاني) لم تعد تدخل مباشرة إلى جلسة الجهاز الرئيسي؛ تعرض شاشة تسجيل الدخول الخاصة بها. يسجّل الصرّاف الدخول هناك باسم المستخدم وكلمة المرور الخاصة به ويرى فقط الأقسام المصرّح له بها. (أنشئ مستخدم الصرّاف والصلاحيات على الجهاز الرئيسي ضمن المستخدمين.)"
   }
 }
