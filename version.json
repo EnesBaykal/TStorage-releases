@@ -1,12 +1,12 @@
 {
-  "latestVersion": "5.5.0",
+  "latestVersion": "5.5.1",
   "minSupportedVersion": "3.0.0",
   "isMandatory": false,
-  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.5.0/TStorageSetup.exe",
+  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.5.1/TStorageSetup.exe",
   "publishedAt": "2026-07-16",
   "releaseNotes": {
-    "tr": "معين (Mueen) olarak yeniden adlandırıldı (pencere/uygulama başlığı, varsayılan dükkân adı). Girişte kullanıcı yazmak yerine listeden seçilir. Borçlar: kişi arama çubuğu + hızlı seçim; Arapça ödeme etiketleri ayrıldı (müşteri: سند قبض, dükkân: سند دفعة); her kişide 'Fişleri Gör'. Satış: müşteri kutusu aranabilir + yazıp yeni müşteri hızlı ekleme (Ayarlar'dan otomatik/onaylı seçmeli). Fişlerde müşteri filtresi aranabilir. Tedarikçi seçimi her yerde aranabilir; açılır listeler yeniden tasarlandı. Yeni ürün miktarı boş başlar (0 yazmaz). Gösterge Paneli Raporlar'a birleştirildi (bugün + açık borçlar + uyarılar Raporlar'da). Çoklu Cihaz ayarı sabit şifreyle korunuyor.",
-    "en": "Rebranded to معين (Mueen) — window/app title and default shop name. Login now picks the user from a list instead of typing. Debts: person search bar + quick pick; Arabic payment labels split (customer: سند قبض, shop: سند دفعة); 'View Receipts' per person. Sales: searchable customer box with quick add-by-name (auto or confirm, set in Settings). Receipts customer filter is searchable. Supplier selection is searchable everywhere; dropdown lists redesigned. New-product quantity starts empty (no stray 0). Dashboard merged into Reports (today + open debts + alerts now in Reports). Multi-Device settings are protected by a fixed password.",
-    "ar": "تغيير الاسم إلى معين — عنوان النافذة/التطبيق واسم المتجر الافتراضي. تسجيل الدخول يتم باختيار المستخدم من قائمة بدل الكتابة. الديون: شريط بحث عن الشخص + اختيار سريع؛ فصل تسميات الدفع بالعربية (العميل: سند قبض، المحل: سند دفعة)؛ 'عرض الإيصالات' لكل شخص. المبيعات: خانة عميل قابلة للبحث مع إضافة سريعة بالاسم (تلقائي أو بتأكيد من الإعدادات). مرشّح العميل في الإيصالات قابل للبحث. اختيار المورّد قابل للبحث في كل مكان؛ وأعيد تصميم القوائم المنسدلة. كمية المنتج الجديد تبدأ فارغة (بدون 0). دُمجت لوحة المعلومات مع التقارير (اليوم + الديون المفتوحة + التنبيهات في التقارير). إعدادات الأجهزة المتعددة محميّة بكلمة مرور ثابتة."
+    "tr": "Yedek geri yükleme hatası düzeltildi: Windows'ta mevcut veritabanının üzerine yedek yüklenirken oluşan 'PathExistsException (errno 183)' hatası giderildi.",
+    "en": "Fixed backup restore error: resolved 'PathExistsException (errno 183)' that occurred on Windows when restoring a backup over an existing database file.",
+    "ar": "إصلاح خطأ استعادة النسخ الاحتياطية: تم حل خطأ 'PathExistsException (errno 183)' الذي كان يحدث على Windows عند استعادة نسخة احتياطية فوق ملف قاعدة بيانات موجود."
   }
 }
