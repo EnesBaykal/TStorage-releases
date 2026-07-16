@@ -1,12 +1,12 @@
 {
-  "latestVersion": "5.6.1",
+  "latestVersion": "5.6.2",
   "minSupportedVersion": "3.0.0",
   "isMandatory": false,
-  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.6.1/TStorageSetup.exe",
+  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.6.2/TStorageSetup.exe",
   "publishedAt": "2026-07-17",
   "releaseNotes": {
-    "tr": "Yedekten geri yükleme düzeltildi: Windows'ta veritabanı dosya kilidi nedeniyle geri yükleme hata veriyor veya donuyordu. Artık yedek güvenli şekilde hazırlanıp uygulama yeniden başlarken uygulanıyor. Ayrıca Raporlar ekranındaki bir hata mesajı giderildi.",
-    "en": "Fixed backup restore: on Windows the restore failed or froze due to a database file lock. The backup is now staged safely and applied while the app restarts. Also fixed an error on the Reports screen.",
-    "ar": "إصلاح استعادة النسخ الاحتياطية: على Windows كانت الاستعادة تفشل أو تتجمد بسبب قفل ملف قاعدة البيانات. أصبحت النسخة الاحتياطية تُجهَّز بأمان وتُطبَّق أثناء إعادة تشغيل التطبيق. كما تم إصلاح خطأ في شاشة التقارير."
+    "tr": "Geri yükleme öncesi mevcut veritabanının otomatik güvenlik kopyası alınır — yanlış yedek yüklenirse geri dönülebilir. Ayrıca uygulama hataları artık yerel bir günlük dosyasına (Belgeler/tstorage/logs) yazılıyor, böylece sorun çıktığında tespiti kolaylaşır.",
+    "en": "A safety copy of the current database is taken before restore — you can roll back if the wrong backup is loaded. App errors are now written to a local log file (Documents/tstorage/logs) to make troubleshooting easier.",
+    "ar": "يتم أخذ نسخة أمان من قاعدة البيانات الحالية قبل الاستعادة — يمكن التراجع إذا تم تحميل نسخة خاطئة. كما تُكتب أخطاء التطبيق الآن في ملف سجل محلي (Documents/tstorage/logs) لتسهيل تشخيص المشكلات."
   }
 }
