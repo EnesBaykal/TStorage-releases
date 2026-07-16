@@ -1,12 +1,12 @@
 {
-  "latestVersion": "5.5.1",
+  "latestVersion": "5.6.0",
   "minSupportedVersion": "3.0.0",
   "isMandatory": false,
-  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.5.1/TStorageSetup.exe",
-  "publishedAt": "2026-07-16",
+  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.6.0/TStorageSetup.exe",
+  "publishedAt": "2026-07-17",
   "releaseNotes": {
-    "tr": "Yedek geri yükleme hatası düzeltildi: Windows'ta mevcut veritabanının üzerine yedek yüklenirken oluşan 'PathExistsException (errno 183)' hatası giderildi.",
-    "en": "Fixed backup restore error: resolved 'PathExistsException (errno 183)' that occurred on Windows when restoring a backup over an existing database file.",
-    "ar": "إصلاح خطأ استعادة النسخ الاحتياطية: تم حل خطأ 'PathExistsException (errno 183)' الذي كان يحدث على Windows عند استعادة نسخة احتياطية فوق ملف قاعدة بيانات موجود."
+    "tr": "Raporlarda 'Bugün' filtresi ve günlük satış/kâr artık seçilen güne/döneme göre; müşteri/dükkân borçları ve fişlerde tarih filtresi (Bugün/Bu Hafta/Bu Ay/özel aralık). Fiş tasarımında ürün tablosu tamamen düzenlenebilir: sıra no ve barkod kolonu eklenebilir, kolonlar açılıp kapatılabilir, kolon başlıkları değiştirilebilir. Satışta yeni eklenen ürün en üstte belirir (yumuşak animasyon).",
+    "en": "Reports now have a 'Today' filter and daily sales/profit follow the selected day/period; date filter (Today/This Week/This Month/custom range) added to customer & shop debts and receipts. The receipt item table is fully editable: add item-number and barcode columns, toggle columns on/off, and rename column headers. Newly added sale items appear at the top with a subtle animation.",
+    "ar": "أصبح للتقارير مرشح 'اليوم' ومبيعات/أرباح اليوم تتبع اليوم/الفترة المحددة؛ وأُضيف مرشح التاريخ (اليوم/هذا الأسبوع/هذا الشهر/نطاق مخصص) إلى ديون العملاء والمحل والإيصالات. جدول أصناف الإيصال قابل للتعديل بالكامل: إضافة عمودَي الترقيم والباركود، وإظهار/إخفاء الأعمدة، وتغيير عناوين الأعمدة. تظهر الأصناف المضافة حديثًا في الأعلى مع حركة انسيابية."
   }
 }
