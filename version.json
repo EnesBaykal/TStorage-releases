@@ -1,12 +1,12 @@
 {
-  "latestVersion": "5.6.2",
+  "latestVersion": "5.7.0",
   "minSupportedVersion": "3.0.0",
   "isMandatory": false,
-  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.6.2/TStorageSetup.exe",
-  "publishedAt": "2026-07-17",
+  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.7.0/TStorageSetup.exe",
+  "publishedAt": "2026-07-18",
   "releaseNotes": {
-    "tr": "Geri yükleme öncesi mevcut veritabanının otomatik güvenlik kopyası alınır — yanlış yedek yüklenirse geri dönülebilir. Ayrıca uygulama hataları artık yerel bir günlük dosyasına (Belgeler/tstorage/logs) yazılıyor, böylece sorun çıktığında tespiti kolaylaşır.",
-    "en": "A safety copy of the current database is taken before restore — you can roll back if the wrong backup is loaded. App errors are now written to a local log file (Documents/tstorage/logs) to make troubleshooting easier.",
-    "ar": "يتم أخذ نسخة أمان من قاعدة البيانات الحالية قبل الاستعادة — يمكن التراجع إذا تم تحميل نسخة خاطئة. كما تُكتب أخطاء التطبيق الآن في ملف سجل محلي (Documents/tstorage/logs) لتسهيل تشخيص المشكلات."
+    "tr": "Sürüm güncellemesi ve iyileştirmeler.",
+    "en": "Version update and improvements.",
+    "ar": "تحديث الإصدار وتحسينات."
   }
 }
