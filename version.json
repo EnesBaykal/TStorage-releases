@@ -1,12 +1,12 @@
 {
-  "latestVersion": "5.7.1",
+  "latestVersion": "5.7.2",
   "minSupportedVersion": "3.0.0",
   "isMandatory": false,
-  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.7.1/TStorageSetup.exe",
+  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.7.2/MueenSetup.exe",
   "publishedAt": "2026-07-24",
   "releaseNotes": {
-    "tr": "Yeni uygulama logosu.",
-    "en": "New app logo.",
-    "ar": "شعار جديد للتطبيق."
+    "tr": "Uygulama artık Mueen adıyla anılıyor: yeni logo, yeni uygulama simgesi ve dosya adları.",
+    "en": "The app is now branded as Mueen: new logo, new app icon, and file names.",
+    "ar": "التطبيق الآن باسم Mueen: شعار جديد وأيقونة جديدة وأسماء ملفات جديدة."
   }
 }
