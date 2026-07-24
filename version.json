@@ -1,12 +1,12 @@
 {
-  "latestVersion": "5.7.3",
+  "latestVersion": "5.7.4",
   "minSupportedVersion": "3.0.0",
   "isMandatory": false,
-  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.7.3/MueenSetup.exe",
+  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.7.4/MueenSetup.exe",
   "publishedAt": "2026-07-24",
   "releaseNotes": {
-    "tr": "Mueen: daha büyük uygulama simgesi, Ayarlar'da Destek bölümü (kirkuk.site). Veritabanı ve lisans değişmeden okunur — veri güvende.",
-    "en": "Mueen: larger app icon, a Support section in Settings (kirkuk.site). Database and license read unchanged — your data is safe.",
-    "ar": "Mueen: أيقونة أكبر، قسم الدعم في الإعدادات (kirkuk.site). تُقرأ قاعدة البيانات والترخيص دون تغيير — بياناتك آمنة."
+    "tr": "Fiş sistemi baştan sona iyileştirildi: A4 tasarımı simetrik ve dengeli (tam genişlik tablo, tablo yüksekliğine göre otomatik yerleşen toplam), Fiş Tasarımı'nda logo/görsel yükleme artık çalışıyor ve önizlemede görünüyor, öğeler serbestçe sürüklenip sol/orta/sağ hizalanabiliyor. Satışta A4/80mm kağıt seçimi çıktıya doğru yansıyor. Satış görsel/kare boyutu ve başlangıç kısayol boyutu ayarlanabilir. Kenar çubuğu ve kağıt seçimi kasması giderildi.",
+    "en": "Receipt system overhauled: symmetric, balanced A4 layout (full-width table, totals that follow the table height), the receipt designer logo/image upload now works and shows in preview, elements can be freely dragged and aligned left/center/right. A4/80mm paper choice on the sales screen now affects the printout. Product image/card size and dashboard shortcut size are adjustable. Sidebar and paper-selector lag fixed.",
+    "ar": "تحسين شامل لنظام الفواتير: تصميم A4 متناسق ومتوازن (جدول بعرض كامل، والمجموع يتبع ارتفاع الجدول)، رفع الشعار/الصورة في مصمّم الفاتورة يعمل الآن ويظهر في المعاينة، ويمكن سحب العناصر بحرية ومحاذاتها لليسار/الوسط/اليمين. اختيار ورق A4/80مم في شاشة المبيعات ينعكس على الطباعة. أحجام صورة/بطاقة المنتج واختصارات الرئيسية قابلة للتعديل. عولج بطء الشريط الجانبي واختيار الورق."
   }
 }
