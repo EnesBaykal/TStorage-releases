@@ -1,12 +1,12 @@
 {
-  "latestVersion": "5.7.4",
+  "latestVersion": "5.7.5",
   "minSupportedVersion": "3.0.0",
   "isMandatory": false,
-  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.7.4/MueenSetup.exe",
-  "publishedAt": "2026-07-24",
+  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.7.5/MueenSetup.exe",
+  "publishedAt": "2026-07-28",
   "releaseNotes": {
-    "tr": "Fiş sistemi baştan sona iyileştirildi: A4 tasarımı simetrik ve dengeli (tam genişlik tablo, tablo yüksekliğine göre otomatik yerleşen toplam), Fiş Tasarımı'nda logo/görsel yükleme artık çalışıyor ve önizlemede görünüyor, öğeler serbestçe sürüklenip sol/orta/sağ hizalanabiliyor. Satışta A4/80mm kağıt seçimi çıktıya doğru yansıyor. Satış görsel/kare boyutu ve başlangıç kısayol boyutu ayarlanabilir. Kenar çubuğu ve kağıt seçimi kasması giderildi.",
-    "en": "Receipt system overhauled: symmetric, balanced A4 layout (full-width table, totals that follow the table height), the receipt designer logo/image upload now works and shows in preview, elements can be freely dragged and aligned left/center/right. A4/80mm paper choice on the sales screen now affects the printout. Product image/card size and dashboard shortcut size are adjustable. Sidebar and paper-selector lag fixed.",
-    "ar": "تحسين شامل لنظام الفواتير: تصميم A4 متناسق ومتوازن (جدول بعرض كامل، والمجموع يتبع ارتفاع الجدول)، رفع الشعار/الصورة في مصمّم الفاتورة يعمل الآن ويظهر في المعاينة، ويمكن سحب العناصر بحرية ومحاذاتها لليسار/الوسط/اليمين. اختيار ورق A4/80مم في شاشة المبيعات ينعكس على الطباعة. أحجام صورة/بطاقة المنتج واختصارات الرئيسية قابلة للتعديل. عولج بطء الشريط الجانبي واختيار الورق."
+    "tr": "Raporlar yenilendi: PDF butonu artık çalışıyor ve raporu seçtiğiniz klasöre kaydediyor. PDF ve Excel çıktıları artık uygulama diline (Türkçe/İngilizce/Arapça) göre üretiliyor ve Arapça'da sağdan sola doğru diziliyor. Hem PDF hem Excel için şık, renkli başlıklı ve okunaklı yeni bir tasarım geldi. Her iki çıktı da sabit klasör yerine kendi seçtiğiniz konuma kaydediliyor. Ayrıca Fiş & Yazıcı ayarlarından eski logo seçici kaldırıldı (logo artık yalnızca Fiş Tasarımı'ndan yönetilir).",
+    "en": "Reports revamped: the PDF button now works and saves the report to a folder you choose. PDF and Excel output now follows the app language (Turkish/English/Arabic), rendering right-to-left in Arabic. Both PDF and Excel got a clean new design with colored headers and better readability. Both are saved to a location you pick instead of a fixed folder. Also, the old logo picker was removed from Receipt & Printer settings (the logo is now managed only from the Receipt Designer).",
+    "ar": "تحديث التقارير: زر PDF يعمل الآن ويحفظ التقرير في المجلد الذي تختاره. أصبحت مخرجات PDF وExcel تُنشأ حسب لغة التطبيق (التركية/الإنجليزية/العربية) وتُعرض من اليمين إلى اليسار بالعربية. تصميم جديد أنيق لكل من PDF وExcel مع عناوين ملوّنة ووضوح أفضل. يُحفظ كلاهما في الموقع الذي تحدده بدلاً من مجلد ثابت. كما أُزيل اختيار الشعار القديم من إعدادات الفاتورة والطابعة (يُدار الشعار الآن من مصمّم الفاتورة فقط)."
   }
 }
