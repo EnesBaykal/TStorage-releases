@@ -1,12 +1,12 @@
 {
-  "latestVersion": "5.7.6",
+  "latestVersion": "5.7.7",
   "minSupportedVersion": "3.0.0",
   "isMandatory": false,
-  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.7.6/MueenSetup.exe",
+  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.7.7/MueenSetup.exe",
   "publishedAt": "2026-07-29",
   "releaseNotes": {
-    "tr": "Yeni birimler: Düzine ve Set. Alışta toplu/set bazlı fiyat girip sistemin otomatik tek adet satış fiyatını hesaplamasını sağlayabilirsiniz; düzine/set ürünler artık her zaman sorunsuz tek tek satılabiliyor. Stok girişinde ve toplu alışta set/düzine miktarı otomatik adete çevriliyor. Kurulum artık gerekli Visual C++ çalışma zamanını otomatik kuruyor (bazı bilgisayarlarda görülen açılış hatası giderildi). Raporlar ekranında bir çökme ihtimali giderildi.",
-    "en": "New units: Dozen and Set. Enter the total price you paid for a dozen/set and the app automatically computes the correct per-piece sale price; dozen/set products can now always be sold individually without issues. Stock-in and bulk purchases now correctly convert entered dozen/set counts into piece quantities. The installer now bundles the required Visual C++ runtime automatically (fixes a startup error some customers hit). Fixed a potential crash in the Reports screen.",
-    "ar": "وحدات جديدة: الدرزن والسيت. أدخل السعر الإجمالي الذي دفعته مقابل الدرزن/السيت ليقوم النظام تلقائيًا بحساب سعر بيع القطعة الواحدة الصحيح؛ يمكن الآن بيع منتجات الدرزن/السيت دائمًا بالقطعة دون مشاكل. عند إدخال المخزون والشراء بالجملة، يتم الآن تحويل عدد الدرزن/السيت المدخل تلقائيًا إلى عدد القطع. يقوم برنامج التثبيت الآن بتثبيت مكونات Visual C++ المطلوبة تلقائيًا (يُصلح خطأ عند بدء التشغيل واجهه بعض العملاء). تم إصلاح احتمال تعطل في شاشة التقارير."
+    "tr": "Kurulum artık Windows'un \"Microsoft Print to PDF\" özelliğini otomatik etkinleştiriyor — bazı bilgisayarlarda yazıcı listesinde görünmeme sorunu giderildi, elle ayar gerekmiyor.",
+    "en": "The installer now automatically enables Windows' \"Microsoft Print to PDF\" feature — fixes it not showing up in the printer list on some computers, no manual setup needed.",
+    "ar": "يقوم برنامج التثبيت الآن بتفعيل ميزة \"Microsoft Print to PDF\" في ويندوز تلقائيًا — تم إصلاح عدم ظهورها في قائمة الطابعات على بعض الأجهزة، دون الحاجة لإعداد يدوي."
   }
 }
