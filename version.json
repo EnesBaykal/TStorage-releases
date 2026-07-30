@@ -1,12 +1,12 @@
 {
-  "latestVersion": "5.8.1",
+  "latestVersion": "5.8.2",
   "minSupportedVersion": "3.0.0",
   "isMandatory": false,
-  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.8.1/MueenSetup.exe",
+  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.8.2/MueenSetup.exe",
   "publishedAt": "2026-07-30",
   "releaseNotes": {
-    "tr": "Düzine/set olarak alınan ürünlere stok eklerken fiyatın adet başına çevrilmemesi düzeltildi — bu ürünlerin kâr hesabı artık doğru. Yeni kurulumlar Arapça başlıyor ve kurulum sihirbazına Arapça dil eklendi. Lisans ekranındaki nadir bir görüntü hatası giderildi.",
-    "en": "Fixed the price not being converted to per-piece when adding stock to products bought as a dozen/set — profit for these products is now correct. New installations start in Arabic, and Arabic was added to the setup wizard. Fixed a rare rendering glitch on the license screen.",
-    "ar": "تم إصلاح عدم تحويل السعر إلى سعر القطعة عند إضافة مخزون للمنتجات المشتراة كدزينة/طقم — أصبح حساب الربح لهذه المنتجات صحيحاً الآن. التثبيتات الجديدة تبدأ باللغة العربية، وتمت إضافة العربية إلى معالج التثبيت. تم إصلاح خلل نادر في عرض شاشة الترخيص."
+    "tr": "ÖNEMLİ düzeltme: düzine/set ürünlerde SATIŞ fiyatı yanlışlıkla set toplamı sayılıp adet sayısına bölünüyordu — satış fiyatı çok düşük kaydediliyor ve kâr zarar gibi görünüyordu. Artık satış fiyatı her zaman TEK ADET olarak girilir (alış fiyatı set/düzine toplamı olarak girilmeye devam eder). 5.8.1'de düzine/set ürün eklediyseniz satış fiyatlarını kontrol edin.",
+    "en": "IMPORTANT fix: for dozen/set products the SALE price was mistakenly treated as a set total and divided by the piece count — the sale price was saved far too low and profit looked like a loss. The sale price is now always entered PER PIECE (the purchase price is still entered as the set/dozen total). If you added dozen/set products in 5.8.1, please check their sale prices.",
+    "ar": "إصلاح مهم: في منتجات الدرزن/السيت كان سعر البيع يُعامَل خطأً كإجمالي السيت ويُقسَّم على عدد القطع — فيُحفَظ سعر البيع أقل بكثير ويظهر الربح كخسارة. أصبح سعر البيع يُدخَل دائماً لكل قطعة (بينما يظل سعر الشراء يُدخَل كإجمالي السيت/الدرزن). إذا أضفت منتجات درزن/سيت في 5.8.1 فيرجى مراجعة أسعار بيعها."
   }
 }
