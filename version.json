@@ -1,12 +1,12 @@
 {
-  "latestVersion": "5.8.0",
+  "latestVersion": "5.8.1",
   "minSupportedVersion": "3.0.0",
   "isMandatory": false,
-  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.8.0/MueenSetup.exe",
+  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.8.1/MueenSetup.exe",
   "publishedAt": "2026-07-30",
   "releaseNotes": {
-    "tr": "Fiş artık yazıcı olmadan da PDF olarak kaydedilebiliyor (kayıt klasörü Ayarlar'dan seçilebilir); satış ekranına fişi WhatsApp ile gönderen bir buton eklendi (mesaj şablonu düzenlenebilir). Düzenleme/silme süresi varsayılanı artık sınırsız. Küçük kararlılık iyileştirmeleri.",
-    "en": "Receipts can now be saved as PDF without a printer (save folder is configurable in Settings); a new button sends the receipt via WhatsApp from the sales screen (editable message template). The edit/delete time window now defaults to unlimited. Small stability improvements.",
-    "ar": "يمكن الآن حفظ الإيصال كملف PDF دون طابعة (يمكن اختيار مجلد الحفظ من الإعدادات)؛ تمت إضافة زر لإرسال الإيصال عبر واتساب من شاشة المبيعات (قالب رسالة قابل للتعديل). أصبحت مدة التعديل/الحذف الافتراضية غير محدودة. تحسينات استقرار صغيرة."
+    "tr": "Düzine/set olarak alınan ürünlere stok eklerken fiyatın adet başına çevrilmemesi düzeltildi — bu ürünlerin kâr hesabı artık doğru. Yeni kurulumlar Arapça başlıyor ve kurulum sihirbazına Arapça dil eklendi. Lisans ekranındaki nadir bir görüntü hatası giderildi.",
+    "en": "Fixed the price not being converted to per-piece when adding stock to products bought as a dozen/set — profit for these products is now correct. New installations start in Arabic, and Arabic was added to the setup wizard. Fixed a rare rendering glitch on the license screen.",
+    "ar": "تم إصلاح عدم تحويل السعر إلى سعر القطعة عند إضافة مخزون للمنتجات المشتراة كدزينة/طقم — أصبح حساب الربح لهذه المنتجات صحيحاً الآن. التثبيتات الجديدة تبدأ باللغة العربية، وتمت إضافة العربية إلى معالج التثبيت. تم إصلاح خلل نادر في عرض شاشة الترخيص."
   }
 }
