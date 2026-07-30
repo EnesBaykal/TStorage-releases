@@ -1,7 +1,7 @@
 {
   "latestVersion": "5.8.2",
   "minSupportedVersion": "3.0.0",
-  "isMandatory": false,
+  "isMandatory": true,
   "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.8.2/MueenSetup.exe",
   "publishedAt": "2026-07-30",
   "releaseNotes": {
