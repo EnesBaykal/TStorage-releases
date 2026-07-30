@@ -1,12 +1,12 @@
 {
-  "latestVersion": "5.7.7",
+  "latestVersion": "5.8.0",
   "minSupportedVersion": "3.0.0",
   "isMandatory": false,
-  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.7.7/MueenSetup.exe",
-  "publishedAt": "2026-07-29",
+  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.8.0/MueenSetup.exe",
+  "publishedAt": "2026-07-30",
   "releaseNotes": {
-    "tr": "Kurulum artık Windows'un \"Microsoft Print to PDF\" özelliğini otomatik etkinleştiriyor — bazı bilgisayarlarda yazıcı listesinde görünmeme sorunu giderildi, elle ayar gerekmiyor.",
-    "en": "The installer now automatically enables Windows' \"Microsoft Print to PDF\" feature — fixes it not showing up in the printer list on some computers, no manual setup needed.",
-    "ar": "يقوم برنامج التثبيت الآن بتفعيل ميزة \"Microsoft Print to PDF\" في ويندوز تلقائيًا — تم إصلاح عدم ظهورها في قائمة الطابعات على بعض الأجهزة، دون الحاجة لإعداد يدوي."
+    "tr": "Fiş artık yazıcı olmadan da PDF olarak kaydedilebiliyor (kayıt klasörü Ayarlar'dan seçilebilir); satış ekranına fişi WhatsApp ile gönderen bir buton eklendi (mesaj şablonu düzenlenebilir). Düzenleme/silme süresi varsayılanı artık sınırsız. Küçük kararlılık iyileştirmeleri.",
+    "en": "Receipts can now be saved as PDF without a printer (save folder is configurable in Settings); a new button sends the receipt via WhatsApp from the sales screen (editable message template). The edit/delete time window now defaults to unlimited. Small stability improvements.",
+    "ar": "يمكن الآن حفظ الإيصال كملف PDF دون طابعة (يمكن اختيار مجلد الحفظ من الإعدادات)؛ تمت إضافة زر لإرسال الإيصال عبر واتساب من شاشة المبيعات (قالب رسالة قابل للتعديل). أصبحت مدة التعديل/الحذف الافتراضية غير محدودة. تحسينات استقرار صغيرة."
   }
 }
