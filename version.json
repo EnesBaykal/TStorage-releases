@@ -1,12 +1,12 @@
 {
-  "latestVersion": "5.8.3",
+  "latestVersion": "5.9.0",
   "minSupportedVersion": "3.0.0",
-  "isMandatory": true,
-  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.8.3/MueenSetup.exe",
+  "isMandatory": false,
+  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.9.0/MueenSetup.exe",
   "publishedAt": "2026-08-01",
   "releaseNotes": {
-    "tr": "Düzine/set ürünlerde ALIŞ fiyatı kendiliğinden değişiyordu: 12'lik düzineye 10.000 girip kaydettiğinizde 9.996'ya, 3'lü sete 25.000 girdiğinizde 24.999'a düşüyordu (adet maliyeti tam sayıya yuvarlanıyordu). Artık girdiğiniz alış fiyatı hiçbir koşulda değişmiyor. Bu güncelleme ayrıca daha önce bozulmuş düzine/set alış fiyatlarını açılışta OTOMATİK düzeltir (en yakın 250 IQD katına oturtur; 250 katı olmayan gerçek fiyatlara dokunmaz). Satış fiyatı, stok ve geçmiş fişleriniz değişmez. Ayrıca depoda stok artık '12 adet (2 set)' şeklinde gösteriliyor — eskiden '12 set' yazıp yanıltıyordu.",
-    "en": "For dozen/set products the PURCHASE price changed on its own: entering 10,000 for a dozen of 12 saved back as 9,996, and 25,000 for a set of 3 became 24,999 (the per-piece cost was rounded to a whole number). The price you enter is now never altered. This update also AUTOMATICALLY repairs previously corrupted dozen/set purchase prices on startup (snapping them to the nearest 250 IQD; genuine prices that are not multiples of 250 are left untouched). Sale prices, stock and past receipts are unchanged. Also, inventory now shows stock as '12 pcs (2 set)' instead of the misleading '12 set'.",
-    "ar": "في منتجات الدرزن/السيت كان سعر الشراء يتغيّر من تلقاء نفسه: عند إدخال 10,000 لدرزن من 12 قطعة يُحفَظ 9,996، وعند إدخال 25,000 لسيت من 3 قطع يصبح 24,999 (بسبب تقريب تكلفة القطعة إلى عدد صحيح). الآن لا يتغيّر السعر الذي تُدخله أبداً. كما يُصلح هذا التحديث تلقائياً أسعار الشراء المتضرّرة سابقاً عند التشغيل (بضبطها على أقرب مضاعف لـ 250 ديناراً، مع عدم المساس بالأسعار الحقيقية غير المضاعفة لـ 250). أسعار البيع والمخزون والفواتير السابقة لا تتغيّر. كما يظهر المخزون الآن بصيغة '12 قطعة (2 سيت)' بدل '12 سيت' المضلِّل."
+    "tr": "Kutu/Set/Düzine satış birimleri artık kendi başına tam bir birim: bu birimlerden biri seçildiğinde 'içinde kaç adet var' hiç sorulmaz, stok o birimden sayılır, girdiğiniz fiyat aynen saklanır. Kasiyere 'koli mi adet mi?' diye soran eski çift seçim tamamen kaldırıldı. Ayrıca sepetteki indirim kutusunun her tuşta kendini seçmesi ve ürün formundaki '1 sette kaç adet' alanının ilk haneden sonra silinmesi hataları düzeltildi.",
+    "en": "Box/Set/Dozen sale units now behave as one whole unit on their own: once selected, the app never asks 'how many pieces inside', stock is counted in that unit, and the price you enter is stored exactly as typed. The old dual-choice dialog that asked the cashier 'box or piece?' has been removed entirely. Also fixed: the cart discount field re-selecting itself on every keystroke, and the 'pieces per set' field in the product form losing its content after the first digit.",
+    "ar": "أصبحت وحدات البيع صندوق/سيت/درزن تعمل الآن كوحدة كاملة بحد ذاتها: عند اختيار إحداها لا يُسأل أبداً 'كم قطعة بداخلها'، ويُحسب المخزون بتلك الوحدة، ويُحفظ السعر الذي تُدخله كما هو تماماً. أُزيل نهائياً الحوار القديم الذي كان يسأل الكاشير 'صندوق أم قطعة؟'. كما تم إصلاح خطأين: مربع الخصم في السلة كان يعيد تحديد نفسه مع كل ضغطة زر، وحقل 'كم قطعة في السيت' في نموذج المنتج كان يفقد محتواه بعد أول رقم."
   }
 }
