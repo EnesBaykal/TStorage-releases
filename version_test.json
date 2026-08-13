@@ -1,0 +1,12 @@
+{
+  "latestVersion": "5.9.1",
+  "minSupportedVersion": "3.0.0",
+  "isMandatory": false,
+  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.9.1/MueenTestSetup.exe",
+  "publishedAt": "2026-08-13",
+  "releaseNotes": {
+    "tr": "Kullanıcı izinleri artık gerçekten uygulanıyor: bir bölümün iznini kapattığınızda o bölüm çalışanın sol menüsünde hiç görünmez ve açılamaz. İzni değiştirdiğiniz anda geçerli olur — çalışanın çıkış yapıp yeniden girmesi gerekmez. Ayrıca Kullanıcılar ekranındaki izin adları İngilizce ve Arapça arayüzde Türkçe kalıyordu, düzeltildi.",
+    "en": "User permissions are now actually enforced: when you turn a section's permission off, that section no longer appears in the employee's sidebar and cannot be opened. Permission changes take effect immediately — the employee no longer has to sign out and back in. Also, permission names on the Users screen stayed in Turkish under the English and Arabic interfaces — fixed.",
+    "ar": "أصبحت صلاحيات المستخدمين مطبَّقة فعلياً: عند إيقاف صلاحية قسم ما، لم يعد ذلك القسم يظهر في القائمة الجانبية للموظف ولا يمكن فتحه. يسري تغيير الصلاحية فوراً — لم يعد على الموظف تسجيل الخروج والدخول من جديد. كما أن أسماء الصلاحيات في شاشة المستخدمين كانت تبقى بالتركية في الواجهتين الإنجليزية والعربية، وقد صُحّحت."
+  }
+}

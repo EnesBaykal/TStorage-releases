@@ -1,12 +1,12 @@
 {
-  "latestVersion": "5.9.0",
+  "latestVersion": "5.9.1",
   "minSupportedVersion": "3.0.0",
   "isMandatory": false,
-  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.9.0/MueenSetup.exe",
-  "publishedAt": "2026-08-01",
+  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.9.1/MueenSetup.exe",
+  "publishedAt": "2026-08-13",
   "releaseNotes": {
-    "tr": "Kutu/Set/Düzine satış birimleri artık kendi başına tam bir birim: bu birimlerden biri seçildiğinde 'içinde kaç adet var' hiç sorulmaz, stok o birimden sayılır, girdiğiniz fiyat aynen saklanır. Kasiyere 'koli mi adet mi?' diye soran eski çift seçim tamamen kaldırıldı. Ayrıca sepetteki indirim kutusunun her tuşta kendini seçmesi ve ürün formundaki '1 sette kaç adet' alanının ilk haneden sonra silinmesi hataları düzeltildi.",
-    "en": "Box/Set/Dozen sale units now behave as one whole unit on their own: once selected, the app never asks 'how many pieces inside', stock is counted in that unit, and the price you enter is stored exactly as typed. The old dual-choice dialog that asked the cashier 'box or piece?' has been removed entirely. Also fixed: the cart discount field re-selecting itself on every keystroke, and the 'pieces per set' field in the product form losing its content after the first digit.",
-    "ar": "أصبحت وحدات البيع صندوق/سيت/درزن تعمل الآن كوحدة كاملة بحد ذاتها: عند اختيار إحداها لا يُسأل أبداً 'كم قطعة بداخلها'، ويُحسب المخزون بتلك الوحدة، ويُحفظ السعر الذي تُدخله كما هو تماماً. أُزيل نهائياً الحوار القديم الذي كان يسأل الكاشير 'صندوق أم قطعة؟'. كما تم إصلاح خطأين: مربع الخصم في السلة كان يعيد تحديد نفسه مع كل ضغطة زر، وحقل 'كم قطعة في السيت' في نموذج المنتج كان يفقد محتواه بعد أول رقم."
+    "tr": "Kullanıcı izinleri artık gerçekten uygulanıyor: bir bölümün iznini kapattığınızda o bölüm çalışanın sol menüsünde hiç görünmez ve açılamaz (önceden menüde duruyordu). İzni değiştirdiğiniz anda geçerli olur — çalışanın çıkış yapıp yeniden girmesi gerekmez; hesabı pasife alırsanız oturumu hemen kapanır. Ayrıca Kullanıcılar ekranındaki izin adları İngilizce ve Arapça arayüzde Türkçe kalıyordu, düzeltildi; güncelleme izinlerinin adları hiç görünmüyordu, eklendi.",
+    "en": "User permissions are now actually enforced: when you turn a section's permission off, that section no longer appears in the employee's sidebar and cannot be opened (previously it stayed visible). Permission changes take effect immediately — the employee no longer has to sign out and back in; deactivating an account ends its session at once. Also, permission names on the Users screen stayed in Turkish under the English and Arabic interfaces — fixed; update-related permission names were missing entirely and have been added.",
+    "ar": "أصبحت صلاحيات المستخدمين مطبَّقة فعلياً: عند إيقاف صلاحية قسم ما، لم يعد ذلك القسم يظهر في القائمة الجانبية للموظف ولا يمكن فتحه (كان يبقى ظاهراً سابقاً). يسري تغيير الصلاحية فوراً — لم يعد على الموظف تسجيل الخروج والدخول من جديد؛ وعند تعطيل الحساب تُنهى جلسته في الحال. كما أن أسماء الصلاحيات في شاشة المستخدمين كانت تبقى بالتركية في الواجهتين الإنجليزية والعربية، وقد صُحّحت؛ وأسماء صلاحيات التحديث لم تكن تظهر إطلاقاً وتمت إضافتها."
   }
 }
