@@ -5,8 +5,8 @@
   "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v6.0.7/MueenSetup.exe",
   "publishedAt": "2026-08-30",
   "releaseNotes": {
-    "tr": "**Raporlar hızlandı.** Binlerce fişi olan dükkânlarda Raporlar ekranı artık daha az veri okuyarak açılıyor, aynı rakamları üretmeye devam ediyor.\n\n**Online panel (bulut) kullananlar için:** panel artık dükkânın TÜM geçmiş günlerinin raporunu gösterebiliyor — öncesinde yalnız bugünün özeti gönderiliyordu. Aynı gün içinde hem IQD hem USD satışı varsa ikisi de ayrı ayrı doğru toplanıyor (öncesinde biri diğerini sessizce eziyordu).\n\n**Online panelde artık senin tasarladığın gerçek fiş görünüyor.** Fiş Tasarımı'nda hazırladığın düzen (logo, yazı tipleri, kolonlar) hem A4 hem 80mm için ayrı ayrı panele gönderiliyor; panel artık kendi sabit jenerik görünümünü değil, senin tasarımını basıyor.",
-    "en": "**Reports load faster.** Shops with thousands of receipts now see the Reports screen open reading less data, with the same numbers as before.\n\n**For shops using the online panel:** the panel can now show the shop's full history, not just today — previously only today's summary was sent. A day with both IQD and USD sales now totals both correctly instead of one silently overwriting the other.\n\n**The online panel now shows your real receipt design.** The layout you built in Receipt Design (logo, fonts, columns) is sent to the panel separately for A4 and 80mm; the panel prints your design instead of its own generic layout.",
-    "ar": "**صارت الراپورات أسرع.** في المحلات التي لديها آلاف الفواتير، تفتح شاشة الراپورات الآن بقراءة بيانات أقل، وبنفس الأرقام كالسابق.\n\n**لمستخدمي اللوحة الإلكترونية (السحابة):** أصبحت اللوحة تعرض تاريخ المحل الكامل، لا اليوم فقط كما كان سابقاً. واليوم الذي فيه مبيعات بالدينار والدولار معاً يُجمع كل منهما بشكل صحيح منفصل، بدل أن يمحو أحدهما الآخر بصمت.\n\n**صارت اللوحة الإلكترونية تعرض تصميم إيصالك الحقيقي.** التصميم الذي أعددته في \"تصميم الإيصال\" (الشعار، الخطوط، الأعمدة) يُرسل للوحة بشكل منفصل لمقاس A4 و80مم؛ فتطبع اللوحة تصميمك بدل تصميمها الثابت العام."
+    "tr": "Uygulama hızlandırıldı ve yeni özellikler eklendi.",
+    "en": "The app got faster and new features were added.",
+    "ar": "أصبح التطبيق أسرع وأُضيفت ميزات جديدة."
   }
 }
