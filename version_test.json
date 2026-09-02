@@ -2,7 +2,7 @@
   "latestVersion": "5.9.1",
   "minSupportedVersion": "3.0.0",
   "isMandatory": false,
-  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v5.9.1/MueenTestSetup.exe",
+  "downloadUrl": "https://tstorage-license-server.enesbaykalt11.workers.dev/download/5.9.1/MueenTestSetup.exe",
   "publishedAt": "2026-08-13",
   "releaseNotes": {
     "tr": "Kullanıcı izinleri artık gerçekten uygulanıyor: bir bölümün iznini kapattığınızda o bölüm çalışanın sol menüsünde hiç görünmez ve açılamaz. İzni değiştirdiğiniz anda geçerli olur — çalışanın çıkış yapıp yeniden girmesi gerekmez. Ayrıca Kullanıcılar ekranındaki izin adları İngilizce ve Arapça arayüzde Türkçe kalıyordu, düzeltildi.",

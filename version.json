@@ -2,7 +2,7 @@
   "latestVersion": "6.0.7",
   "minSupportedVersion": "3.0.0",
   "isMandatory": false,
-  "downloadUrl": "https://github.com/EnesBaykal/TStorage-releases/releases/download/v6.0.7/MueenSetup.exe",
+  "downloadUrl": "https://tstorage-license-server.enesbaykalt11.workers.dev/download/6.0.7/MueenSetup.exe",
   "publishedAt": "2026-08-30",
   "releaseNotes": {
     "tr": "Uygulama hızlandırıldı ve yeni özellikler eklendi.",
