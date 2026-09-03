@@ -1,12 +1,12 @@
 {
-  "latestVersion": "6.0.8",
+  "latestVersion": "6.0.9",
   "minSupportedVersion": "3.0.0",
   "isMandatory": false,
-  "downloadUrl": "https://tstorage-license-server.enesbaykalt11.workers.dev/download/6.0.8/MueenSetup.exe",
+  "downloadUrl": "https://tstorage-license-server.enesbaykalt11.workers.dev/download/6.0.9/MueenSetup.exe",
   "publishedAt": "2026-09-03",
   "releaseNotes": {
-    "tr": "Guncelleme artik indirilebiliyor ve kurulum kendi basina tamamlaniyor; bir sorun cikarsa uygulama sebebini yaziyor. Bulut baglantisi da saglamlastirildi: tek bir kayit sorun cikarsa geri kalan veriler yine de yuklenir, Ayarlar > Veri Aynalama icinde \"Baglanti Tanilama\" ile durum gorulebilir.",
-    "en": "Updates now download and install on their own, and if something goes wrong the app says why. Cloud sync was hardened too: one bad record no longer blocks the rest, and Settings > Data Mirroring has a new \"Connection Diagnostics\" report.",
-    "ar": "صار بالإمكان تنزيل التحديث ويكتمل التثبيت من تلقاء نفسه، وإذا حدث خطأ يوضّح التطبيق سببه. كما جرى تحصين المزامنة السحابية: لم يعد سجل واحد معطوب يمنع رفع بقية البيانات، وأُضيف تقرير \"تشخيص الاتصال\" في الإعدادات > مزامنة البيانات."
+    "tr": "Bulut senkronu eski kurulumlarda hic calismiyordu (yedek aliniyor ama veriler panele gitmiyordu); sebep giderildi ve uygulama acilirken kendini onariyor.",
+    "en": "Cloud sync never ran on older installations (backups worked but data never reached the panel); the cause is fixed and the app repairs itself on startup.",
+    "ar": "لم تكن المزامنة السحابية تعمل إطلاقًا على التثبيتات القديمة (كان النسخ الاحتياطي يعمل لكن البيانات لا تصل إلى اللوحة)؛ عولج السبب ويصلح التطبيق نفسه عند بدء التشغيل."
   }
 }
