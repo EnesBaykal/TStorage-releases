@@ -1,12 +1,12 @@
 {
-  "latestVersion": "6.0.9",
+  "latestVersion": "6.1.0",
   "minSupportedVersion": "3.0.0",
   "isMandatory": false,
-  "downloadUrl": "https://tstorage-license-server.enesbaykalt11.workers.dev/download/6.0.9/MueenSetup.exe",
-  "publishedAt": "2026-09-03",
+  "downloadUrl": "https://tstorage-license-server.enesbaykalt11.workers.dev/download/6.1.0/MueenSetup.exe",
+  "publishedAt": "2026-09-04",
   "releaseNotes": {
-    "tr": "Bulut senkronu eski kurulumlarda hic calismiyordu (yedek aliniyor ama veriler panele gitmiyordu); sebep giderildi ve uygulama acilirken kendini onariyor.",
-    "en": "Cloud sync never ran on older installations (backups worked but data never reached the panel); the cause is fixed and the app repairs itself on startup.",
-    "ar": "لم تكن المزامنة السحابية تعمل إطلاقًا على التثبيتات القديمة (كان النسخ الاحتياطي يعمل لكن البيانات لا تصل إلى اللوحة)؛ عولج السبب ويصلح التطبيق نفسه عند بدء التشغيل."
+    "tr": "Kasada sildiğiniz kayıtlar artık panele de yansıyor. Önceden bir ürünü, fişi, borcu ya da tahsilatı silseniz bile panel onu görmeye devam ediyordu; silinen fiş ciroya ve kâra dahil edilmeye devam ettiği için panel rakamları kasadan farklı çıkabiliyordu. Giderildi — güncellemeden sonraki ilk senkron turunda ürünler bir kez yeniden gönderilir ve panelde kalmış eski silinmiş kayıtlar da temizlenir.\n\nUygulamayı kapatırken artık onay soruluyor: pencerenin çarpısına yanlışlıkla basmak işlemi yarıda kesmiyor.\n\nYeni sürüm çıktığında uygulamanın içinde bir bildirim şeridi görünüyor; güncellemeyi oradan tek tıkla kurabilirsiniz (önceden yeni sürümden haberdar olmanın bir yolu yoktu).",
+    "en": "Records you delete at the till now reach the panel too. Previously, deleting a product, receipt, debt or payment left it visible in the panel; a deleted receipt kept counting toward revenue and profit, so panel figures could disagree with the till. Fixed — after this update the first sync round re-sends products once and also clears previously deleted records left behind in the panel.\n\nClosing the application now asks for confirmation, so hitting the window's X by mistake no longer interrupts your work.\n\nWhen a new version is released a notice bar now appears inside the application and installs the update in one click (previously there was no way to know a new version existed).",
+    "ar": "أصبحت السجلات التي تحذفها في الصندوق تنعكس على اللوحة أيضاً. سابقاً كان حذف منتج أو فاتورة أو دَين أو دفعة يُبقيها ظاهرة في اللوحة، وكانت الفاتورة المحذوفة تظل محتسبة ضمن المبيعات والأرباح، فتختلف أرقام اللوحة عن الصندوق. عولج ذلك — بعد هذا التحديث تُرسل المنتجات مرة واحدة في أول دورة مزامنة وتُنظَّف كذلك السجلات المحذوفة سابقاً المتبقية في اللوحة.\n\nصار إغلاق التطبيق يطلب تأكيداً، فالضغط على زر الإغلاق بالخطأ لم يعد يقطع عملك.\n\nوعند صدور نسخة جديدة يظهر الآن شريط تنبيه داخل التطبيق يتيح تثبيت التحديث بنقرة واحدة (لم تكن هناك من قبل أي وسيلة لمعرفة وجود نسخة جديدة)."
   }
 }
