@@ -1,12 +1,12 @@
 {
-  "latestVersion": "6.1.0",
+  "latestVersion": "6.1.1",
   "minSupportedVersion": "3.0.0",
   "isMandatory": false,
-  "downloadUrl": "https://tstorage-license-server.enesbaykalt11.workers.dev/download/6.1.0/MueenSetup.exe",
-  "publishedAt": "2026-09-04",
+  "downloadUrl": "https://tstorage-license-server.enesbaykalt11.workers.dev/download/6.1.1/MueenSetup.exe",
+  "publishedAt": "2026-09-06",
   "releaseNotes": {
-    "tr": "Kasada sildiğiniz kayıtlar artık panele de yansıyor. Önceden bir ürünü, fişi, borcu ya da tahsilatı silseniz bile panel onu görmeye devam ediyordu; silinen fiş ciroya ve kâra dahil edilmeye devam ettiği için panel rakamları kasadan farklı çıkabiliyordu. Giderildi — güncellemeden sonraki ilk senkron turunda ürünler bir kez yeniden gönderilir ve panelde kalmış eski silinmiş kayıtlar da temizlenir.\n\nUygulamayı kapatırken artık onay soruluyor: pencerenin çarpısına yanlışlıkla basmak işlemi yarıda kesmiyor.\n\nYeni sürüm çıktığında uygulamanın içinde bir bildirim şeridi görünüyor; güncellemeyi oradan tek tıkla kurabilirsiniz (önceden yeni sürümden haberdar olmanın bir yolu yoktu).",
-    "en": "Records you delete at the till now reach the panel too. Previously, deleting a product, receipt, debt or payment left it visible in the panel; a deleted receipt kept counting toward revenue and profit, so panel figures could disagree with the till. Fixed — after this update the first sync round re-sends products once and also clears previously deleted records left behind in the panel.\n\nClosing the application now asks for confirmation, so hitting the window's X by mistake no longer interrupts your work.\n\nWhen a new version is released a notice bar now appears inside the application and installs the update in one click (previously there was no way to know a new version existed).",
-    "ar": "أصبحت السجلات التي تحذفها في الصندوق تنعكس على اللوحة أيضاً. سابقاً كان حذف منتج أو فاتورة أو دَين أو دفعة يُبقيها ظاهرة في اللوحة، وكانت الفاتورة المحذوفة تظل محتسبة ضمن المبيعات والأرباح، فتختلف أرقام اللوحة عن الصندوق. عولج ذلك — بعد هذا التحديث تُرسل المنتجات مرة واحدة في أول دورة مزامنة وتُنظَّف كذلك السجلات المحذوفة سابقاً المتبقية في اللوحة.\n\nصار إغلاق التطبيق يطلب تأكيداً، فالضغط على زر الإغلاق بالخطأ لم يعد يقطع عملك.\n\nوعند صدور نسخة جديدة يظهر الآن شريط تنبيه داخل التطبيق يتيح تثبيت التحديث بنقرة واحدة (لم تكن هناك من قبل أي وسيلة لمعرفة وجود نسخة جديدة)."
+    "tr": "Yeni sürüm bildirimi artık tıklanabilir: bildirimin üzerine tıklayınca doğrudan Ayarlar → Güncellemeler bölümü açılıyor, sağdaki düğme ise güncellemeyi tek tıkla kuruyor. Bildirimi X ile kapatabilirsiniz; uygulamayı bir daha açtığınızda güncelleme hâlâ kurulmamışsa yeniden görünür.\n\nAyrıca arka planda kararlılık iyileştirmeleri yapıldı.",
+    "en": "The new-version notice is now clickable: clicking it opens Settings → Updates directly, while the button on the right installs the update in one click. You can dismiss the notice with X; it reappears the next time you open the application if the update is still not installed.\n\nThis release also contains background stability improvements.",
+    "ar": "صار إشعار النسخة الجديدة قابلاً للنقر: بالنقر عليه تُفتح مباشرةً الإعدادات ← التحديثات، بينما يثبّت الزر على اليمين التحديث بنقرة واحدة. يمكنك إغلاق الإشعار بالعلامة X، وسيظهر مجدداً عند فتح التطبيق في المرة القادمة إن لم يكن التحديث قد ثُبّت بعد.\n\nكما تتضمّن هذه النسخة تحسينات استقرار في الخلفية."
   }
 }
