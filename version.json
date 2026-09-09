@@ -1,12 +1,12 @@
 {
-  "latestVersion": "6.1.1",
+  "latestVersion": "6.1.2",
   "minSupportedVersion": "3.0.0",
   "isMandatory": false,
-  "downloadUrl": "https://tstorage-license-server.enesbaykalt11.workers.dev/download/6.1.1/MueenSetup.exe",
-  "publishedAt": "2026-09-06",
+  "downloadUrl": "https://tstorage-license-server.enesbaykalt11.workers.dev/download/6.1.2/MueenSetup.exe",
+  "publishedAt": "2026-09-09",
   "releaseNotes": {
-    "tr": "Yeni sürüm bildirimi artık tıklanabilir: bildirimin üzerine tıklayınca doğrudan Ayarlar → Güncellemeler bölümü açılıyor, sağdaki düğme ise güncellemeyi tek tıkla kuruyor. Bildirimi X ile kapatabilirsiniz; uygulamayı bir daha açtığınızda güncelleme hâlâ kurulmamışsa yeniden görünür.\n\nAyrıca arka planda kararlılık iyileştirmeleri yapıldı.",
-    "en": "The new-version notice is now clickable: clicking it opens Settings → Updates directly, while the button on the right installs the update in one click. You can dismiss the notice with X; it reappears the next time you open the application if the update is still not installed.\n\nThis release also contains background stability improvements.",
-    "ar": "صار إشعار النسخة الجديدة قابلاً للنقر: بالنقر عليه تُفتح مباشرةً الإعدادات ← التحديثات، بينما يثبّت الزر على اليمين التحديث بنقرة واحدة. يمكنك إغلاق الإشعار بالعلامة X، وسيظهر مجدداً عند فتح التطبيق في المرة القادمة إن لم يكن التحديث قد ثُبّت بعد.\n\nكما تتضمّن هذه النسخة تحسينات استقرار في الخلفية."
+    "tr": "Lisansı süresiz olan bilgisayarlarda, bilgisayarın saati ya da tarihi yanlış olduğunda uygulama \"lisans süresi dolmuş\" diyerek açılmıyordu. Verilen yeni kodlar da işe yaramıyordu, çünkü sorun lisansta değil cihazdaki tarih kaydındaydı.\n\nGiderildi: süresiz lisanslar artık saat yüzünden kilitlenmiyor ve bozulmuş kayıt bu güncellemeden sonra kendiliğinden onarılıyor. Süreli lisanslarda koruma aynen devam ediyor; kilitlenme gerekirse artık doğru sebep yazıyor (\"bilgisayarın saati geriye alınmış\").",
+    "en": "On computers with a lifetime licence, the application refused to open and reported \"licence expired\" whenever the computer's date or time was wrong. New activation codes did not help either, because the fault was not in the licence but in a date record kept on the device.\n\nFixed: a lifetime licence is never locked by the clock again, and a corrupted record repairs itself after this update. Time-limited licences keep their protection; when they do lock, the message now states the real reason (\"the computer's clock has been set back\").",
+    "ar": "على الأجهزة التي تحمل ترخيصاً دائماً، كان التطبيق يرفض الفتح ويقول \"انتهت صلاحية الترخيص\" عندما يكون تاريخ الجهاز أو وقته غير صحيح. ولم تكن رموز التفعيل الجديدة تُجدي نفعاً، لأن الخلل لم يكن في الترخيص بل في سجل تاريخ محفوظ على الجهاز.\n\nتم الإصلاح: لم يعد الترخيص الدائم يُقفَل بسبب الساعة، ويُصلَح السجل التالف تلقائياً بعد هذا التحديث. أما التراخيص المحدودة المدة فتحتفظ بحمايتها، وعند الإقفال تُظهر السبب الحقيقي (\"تم إرجاع ساعة الجهاز إلى الوراء\")."
   }
 }
