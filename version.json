@@ -1,12 +1,12 @@
 {
-  "latestVersion": "6.1.3",
+  "latestVersion": "6.1.5",
   "minSupportedVersion": "3.0.0",
   "isMandatory": false,
-  "downloadUrl": "https://tstorage-license-server.enesbaykalt11.workers.dev/download/6.1.3/MueenSetup.exe",
-  "publishedAt": "2026-09-10",
+  "downloadUrl": "https://tstorage-license-server.enesbaykalt11.workers.dev/download/6.1.5/MueenSetup.exe",
+  "publishedAt": "2026-09-27",
   "releaseNotes": {
-    "tr": "Daha önce silinmiş bir ürünün barkodu yeni bir ürüne girilmek istendiğinde uygulama \"bu barkod başka bir üründe kullanılıyor\" diyordu; aynı barkod satış ekranında okutulduğunda ise \"ürün bulunamadı\" çıkıyordu. Barkod ne yeni ürüne verilebiliyor ne de satılabiliyordu.\n\nGiderildi: silinmiş ürünlerin barkodları artık engel sayılmıyor. Bu barkodu yeni ürüne verebilir ve satış ekranında hemen okutabilirsiniz.",
-    "en": "When the barcode of a previously deleted product was entered for a new product, the application said \"this barcode is used by another product\", yet scanning the same barcode on the sales screen reported \"product not found\". The barcode could neither be assigned nor sold.\n\nFixed: barcodes of deleted products no longer block anything. You can give the barcode to a new product and scan it on the sales screen right away.",
-    "ar": "عند إدخال باركود منتج محذوف سابقاً لمنتج جديد، كان التطبيق يقول \"هذا الباركود مستخدم بمنتج آخر\"، بينما يظهر \"المنتج غير موجود\" عند مسح الباركود نفسه في شاشة البيع. فلم يكن ممكناً إعطاء الباركود لمنتج جديد ولا البيع به.\n\nتم الإصلاح: لم تعد باركودات المنتجات المحذوفة تمنع أي شيء. يمكنك إعطاء الباركود لمنتج جديد ومسحه في شاشة البيع مباشرة."
+    "tr": "Sepet artık ayarlanabilir:\n• Ayarlar → Görünüm → Sepet: ürün satırlarının boyutunu seçin (Rahat / Normal / Sıkı). Sıkı modda her ürün tek satırdır; fiyat ve indirim satıra tıklayınca açılır.\n• Sepet genişliği: satış ekranında ürün listesi ile sepet arasındaki çubuğu sürükleyerek sepeti genişletip daraltabilirsiniz. Ayar kaydedilir.\n• Sepeti görüntüle: sepet başlığındaki göz simgesi, sepetteki tüm ürünleri fiş tablosu halinde toplamlarla gösterir.\n\nSüreli lisanslar artık bilgisayar saati geri alınarak uzatılamaz; süre dolduğu anda uygulama lisans ekranına geçer. Süresiz lisanslar bundan etkilenmez.",
+    "en": "The cart is now adjustable:\n• Settings → Appearance → Cart: choose the row size of cart items (Comfortable / Normal / Compact). In compact mode each item is a single line; price and discount open when you click the row.\n• Cart width: on the sales screen, drag the bar between the product list and the cart to make the cart wider or narrower. The setting is saved.\n• View cart: the eye icon in the cart header shows all items in the cart as a receipt table with totals.\n\nTime-limited licenses can no longer be extended by turning the computer clock back; the app switches to the license screen as soon as the period ends. Lifetime licenses are not affected.",
+    "ar": "أصبحت السلة قابلة للتعديل:\n• الإعدادات ← المظهر ← السلة: اختر حجم صفوف المنتجات (مريح / عادي / مضغوط). في الوضع المضغوط يكون كل منتج في سطر واحد، ويظهر السعر والخصم عند النقر على الصف.\n• عرض السلة: في شاشة البيع اسحب الشريط بين قائمة المنتجات والسلة لتوسيع السلة أو تضييقها. يتم حفظ الإعداد.\n• عرض محتوى السلة: أيقونة العين في رأس السلة تعرض جميع المنتجات كجدول إيصال مع المجاميع.\n\nلم يعد بالإمكان تمديد التراخيص المحددة المدة بإرجاع ساعة الحاسوب إلى الوراء؛ ينتقل التطبيق إلى شاشة الترخيص فور انتهاء المدة. التراخيص الدائمة لا تتأثر."
   }
 }
