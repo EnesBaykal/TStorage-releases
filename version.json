@@ -1,12 +1,12 @@
 {
-  "latestVersion": "6.1.7",
+  "latestVersion": "6.1.8",
   "minSupportedVersion": "3.0.0",
   "isMandatory": false,
-  "downloadUrl": "https://tstorage-license-server.enesbaykalt11.workers.dev/download/6.1.7/MueenSetup.exe",
+  "downloadUrl": "https://tstorage-license-server.enesbaykalt11.workers.dev/download/6.1.8/MueenSetup.exe",
   "publishedAt": "2026-09-28",
   "releaseNotes": {
-    "tr": "Kısayol çubuğu düzeltmesi:\n• Uzun ekran adlarında kısayol düğmeleri artık kaybolmaz. Yer azsa önce düğme adları gizlenir, sonra düğmeler küçülür; yine sığmazsa kalanlar sondaki \"⋯\" düğmesinde listelenir. F-tuşları her durumda çalışır.\n• Uzun ekran adları \"…\" ile kısaltılır; tam ad üzerine gelince görünür.\n• Dar ekranlarda kullanıcı adı ve Çıkış Yap yalnız ikon olarak görünür.",
-    "en": "Shortcut bar fix:\n• Shortcut buttons no longer disappear on screens with long names. When space is short, button names are hidden first, then the buttons shrink; if they still do not fit, the rest are listed under the \"⋯\" button at the end. F-keys always work.\n• Long screen names are shortened with \"…\"; hover to see the full name.\n• On narrow screens the user name and Log Out are shown as icons only.",
-    "ar": "إصلاح شريط الاختصارات:\n• لم تعد أزرار الاختصارات تختفي في الشاشات ذات الأسماء الطويلة. عند ضيق المساحة تُخفى أسماء الأزرار أولاً ثم تصغر الأزرار، وإن لم تتسع بعد ذلك تُعرض البقية تحت زر \"⋯\" في النهاية. تعمل مفاتيح F دائماً.\n• تُختصر أسماء الشاشات الطويلة بـ \"…\"؛ مرّر المؤشر لرؤية الاسم كاملاً.\n• في الشاشات الضيقة يظهر اسم المستخدم وتسجيل الخروج كأيقونات فقط."
+    "tr": "Abonelik lisansı:\n• Süreli lisanslarda artık yeni kod gerekmez. Satıcınız sürenizi uzattığında uygulama internete bağlıyken birkaç dakika içinde yeni süreyi kendiliğinden alır.\n• Süresi dolmuş bir uygulama, süre eklenince kendiliğinden açılır. Kilit ekranındaki \"Yeniden Denetle\" ile beklemeden kontrol edebilirsiniz.\n• Süresiz (ömür boyu) lisanslar bundan etkilenmez.",
+    "en": "Subscription license:\n• Time-limited licenses no longer need a new code. When your seller extends your time, the app picks up the new period by itself within a few minutes while online.\n• An expired app unlocks by itself once time is added. Use \"Check Again\" on the lock screen to check right away.\n• Lifetime licenses are not affected.",
+    "ar": "ترخيص الاشتراك:\n• لم تعد التراخيص محددة المدة تحتاج إلى رمز جديد. عندما يمدد البائع مدتك، يحصل التطبيق على المدة الجديدة تلقائياً خلال دقائق أثناء الاتصال بالإنترنت.\n• يُفتح التطبيق المنتهي تلقائياً عند إضافة مدة. استخدم \"تحقق مجدداً\" في شاشة القفل للتحقق فوراً.\n• التراخيص الدائمة لا تتأثر."
   }
 }
