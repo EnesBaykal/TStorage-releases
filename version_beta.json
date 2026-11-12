@@ -1,0 +1,12 @@
+{
+  "latestVersion": "6.2.0",
+  "minSupportedVersion": "3.0.0",
+  "isMandatory": false,
+  "downloadUrl": "https://tstorage-license-server.enesbaykalt11.workers.dev/download/6.2.0/MueenSetup.exe",
+  "publishedAt": "2026-11-12",
+  "releaseNotes": {
+    "tr": "Para kayıtları:\n• Bir düğmeye iki kez hızlı tıklamak ya da F12'ye iki kez basmak artık aynı işlemi iki kez kaydetmez. Bu; taksit ödeme, borcu kapatma, satışı tamamlama, alış, ödeme ekleme, iadeler ve kayıt pencereleri için geçerlidir.\nRaporlar:\n• \"En çok satanlar\" ve \"En kârlı ürünler\" tabloları iade edilen adedi ve satır indirimini artık düşüyor.\n• USD görünümünde toplamlar kuruş kaymadan doğru gösteriliyor.\n• Taksit gecikme analizi her taksitin kendi vadesine göre hesaplanıyor.\nOnline panel:\n• Panelden gelen satış talebinde aynı ürün iki satırda olsa da stok doğru düşüyor.\n• Panelden gelen talep onaylanınca kasiyerin açık sepeti artık silinmiyor.",
+    "en": "Money records:\n• Clicking a button twice quickly or pressing F12 twice no longer saves the same action twice. This covers paying an installment, closing a debt, completing a sale, purchases, adding a payment, returns and the save dialogs.\nReports:\n• The \"Best sellers\" and \"Most profitable products\" tables now subtract returned quantities and line discounts.\n• Totals in the USD view are now exact, with no cent drift.\n• The installment overdue analysis now uses each installment's own due date.\nOnline panel:\n• When a sale request from the panel lists the same product on two lines, stock now goes down correctly.\n• Approving a request from the panel no longer clears the cashier's open cart.",
+    "ar": "سجلات المال:\n• النقر على الزر مرتين بسرعة أو الضغط على F12 مرتين لم يعد يسجل العملية نفسها مرتين. يشمل ذلك دفع القسط وإغلاق الدين وإتمام البيع والشراء وإضافة دفعة والمرتجعات ونوافذ الحفظ.\nالتقارير:\n• جدولا \"الأكثر مبيعاً\" و\"المنتجات الأكثر ربحاً\" يخصمان الآن الكمية المرتجعة وخصم السطر.\n• المجاميع في عرض الدولار أصبحت دقيقة بدون انحراف في السنتات.\n• تحليل تأخر الأقساط يحسب الآن حسب تاريخ استحقاق كل قسط.\nاللوحة عبر الإنترنت:\n• عندما يحتوي طلب البيع من اللوحة على نفس المنتج في سطرين، ينقص المخزون بشكل صحيح.\n• الموافقة على طلب من اللوحة لم تعد تمسح سلة الكاشير المفتوحة."
+  }
+}
