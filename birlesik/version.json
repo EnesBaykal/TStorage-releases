@@ -1,0 +1,12 @@
+{
+  "latestVersion": "7.0.0",
+  "minSupportedVersion": "3.0.0",
+  "isMandatory": false,
+  "downloadUrl": "https://tstorage-license-server.enesbaykalt11.workers.dev/download/7.0.0/MueenSetup.exe",
+  "publishedAt": "2026-11-26",
+  "releaseNotes": {
+    "tr": "• Mueen hesabıyla tek giriş.\n• Ürün Paketi: Ayarlar → Yedekleme'den .mueenproduct dosyasıyla ürünler eklenir; mevcut verileriniz değişmez.\n• Çift tıklamada çift satış/tahsilat/iade oluşması düzeltildi.\n• Rapor ve online panel düzeltmeleri.",
+    "en": "• Single sign-in with your Mueen account.\n• Product Package: add products from a .mueenproduct file in Settings → Backup; your existing data is not changed.\n• Fixed duplicate sales/payments/returns on double click.\n• Report and online panel fixes.",
+    "ar": "• تسجيل دخول واحد بحساب Mueen.\n• حزمة المنتجات: أضف المنتجات من ملف ‎.mueenproduct‎ في الإعدادات ← النسخ الاحتياطي؛ بياناتك الحالية لا تتغير.\n• إصلاح تكرار البيع/التحصيل/الإرجاع عند النقر المزدوج.\n• إصلاحات في التقارير واللوحة الإلكترونية."
+  }
+}
